@@ -1,6 +1,4 @@
-# ML-1-Lab-Project-21BDA30
-
-## Company Bankruptcy Prediction
+# Company Bankruptcy Prediction
 
 ### Objective
 To predict if a company will face bankruptcy using neural networks
